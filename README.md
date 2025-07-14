@@ -28,8 +28,9 @@ triangulo-cadastro-c/
 ```bash
 gcc src/main.c -o triangulos.exe
 ./triangulos.exe
+```
 
-##📘 Autor
+## 📘 Autor
 Matheus Fernandes Ribeiro
 Estudante de Engenharia da Computação – UNIARA
 🔗 LinkedIn
